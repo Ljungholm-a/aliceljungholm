@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/aliceljungholm/static/css/main.90a42bae.chunk.css",
-    "main.js": "/aliceljungholm/static/js/main.8e0293cb.chunk.js",
-    "main.js.map": "/aliceljungholm/static/js/main.8e0293cb.chunk.js.map",
+    "main.css": "/aliceljungholm/static/css/main.2b2e855f.chunk.css",
+    "main.js": "/aliceljungholm/static/js/main.803ba23b.chunk.js",
+    "main.js.map": "/aliceljungholm/static/js/main.803ba23b.chunk.js.map",
     "runtime-main.js": "/aliceljungholm/static/js/runtime-main.fd1a402b.js",
     "runtime-main.js.map": "/aliceljungholm/static/js/runtime-main.fd1a402b.js.map",
     "static/js/2.aa21f63a.chunk.js": "/aliceljungholm/static/js/2.aa21f63a.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.4a6eb498.chunk.js": "/aliceljungholm/static/js/3.4a6eb498.chunk.js",
     "static/js/3.4a6eb498.chunk.js.map": "/aliceljungholm/static/js/3.4a6eb498.chunk.js.map",
     "index.html": "/aliceljungholm/index.html",
-    "static/css/main.90a42bae.chunk.css.map": "/aliceljungholm/static/css/main.90a42bae.chunk.css.map",
+    "static/css/main.2b2e855f.chunk.css.map": "/aliceljungholm/static/css/main.2b2e855f.chunk.css.map",
     "static/js/2.aa21f63a.chunk.js.LICENSE.txt": "/aliceljungholm/static/js/2.aa21f63a.chunk.js.LICENSE.txt",
     "static/media/cvs.f7892d20.png": "/aliceljungholm/static/media/cvs.f7892d20.png",
     "static/media/diploma.d5179199.png": "/aliceljungholm/static/media/diploma.d5179199.png",
@@ -34,7 +34,7 @@
   "entrypoints": [
     "static/js/runtime-main.fd1a402b.js",
     "static/js/2.aa21f63a.chunk.js",
-    "static/css/main.90a42bae.chunk.css",
-    "static/js/main.8e0293cb.chunk.js"
+    "static/css/main.2b2e855f.chunk.css",
+    "static/js/main.803ba23b.chunk.js"
   ]
 }
