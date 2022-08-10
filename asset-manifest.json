@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/aliceljungholm/static/css/main.f1efd692.chunk.css",
+    "main.css": "/aliceljungholm/static/css/main.8258db46.chunk.css",
     "main.js": "/aliceljungholm/static/js/main.47d6d28b.chunk.js",
     "main.js.map": "/aliceljungholm/static/js/main.47d6d28b.chunk.js.map",
     "runtime-main.js": "/aliceljungholm/static/js/runtime-main.fd1a402b.js",
@@ -10,7 +10,7 @@
     "static/js/3.4a6eb498.chunk.js": "/aliceljungholm/static/js/3.4a6eb498.chunk.js",
     "static/js/3.4a6eb498.chunk.js.map": "/aliceljungholm/static/js/3.4a6eb498.chunk.js.map",
     "index.html": "/aliceljungholm/index.html",
-    "static/css/main.f1efd692.chunk.css.map": "/aliceljungholm/static/css/main.f1efd692.chunk.css.map",
+    "static/css/main.8258db46.chunk.css.map": "/aliceljungholm/static/css/main.8258db46.chunk.css.map",
     "static/js/2.aa21f63a.chunk.js.LICENSE.txt": "/aliceljungholm/static/js/2.aa21f63a.chunk.js.LICENSE.txt",
     "static/media/cvs.f7892d20.png": "/aliceljungholm/static/media/cvs.f7892d20.png",
     "static/media/diploma.d5179199.png": "/aliceljungholm/static/media/diploma.d5179199.png",
@@ -34,7 +34,7 @@
   "entrypoints": [
     "static/js/runtime-main.fd1a402b.js",
     "static/js/2.aa21f63a.chunk.js",
-    "static/css/main.f1efd692.chunk.css",
+    "static/css/main.8258db46.chunk.css",
     "static/js/main.47d6d28b.chunk.js"
   ]
 }
