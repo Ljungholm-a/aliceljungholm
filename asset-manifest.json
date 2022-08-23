@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/aliceljungholm/static/css/main.99f508c1.chunk.css",
-    "main.js": "/aliceljungholm/static/js/main.1b4e7b34.chunk.js",
-    "main.js.map": "/aliceljungholm/static/js/main.1b4e7b34.chunk.js.map",
-    "runtime-main.js": "/aliceljungholm/static/js/runtime-main.fd1a402b.js",
-    "runtime-main.js.map": "/aliceljungholm/static/js/runtime-main.fd1a402b.js.map",
-    "static/js/2.c1b9e04e.chunk.js": "/aliceljungholm/static/js/2.c1b9e04e.chunk.js",
-    "static/js/2.c1b9e04e.chunk.js.map": "/aliceljungholm/static/js/2.c1b9e04e.chunk.js.map",
-    "static/js/3.4a6eb498.chunk.js": "/aliceljungholm/static/js/3.4a6eb498.chunk.js",
-    "static/js/3.4a6eb498.chunk.js.map": "/aliceljungholm/static/js/3.4a6eb498.chunk.js.map",
+    "main.css": "/aliceljungholm/static/css/main.fdbd4cf5.chunk.css",
+    "main.js": "/aliceljungholm/static/js/main.11862b6d.chunk.js",
+    "main.js.map": "/aliceljungholm/static/js/main.11862b6d.chunk.js.map",
+    "runtime-main.js": "/aliceljungholm/static/js/runtime-main.53c02af7.js",
+    "runtime-main.js.map": "/aliceljungholm/static/js/runtime-main.53c02af7.js.map",
+    "static/js/2.a61a9f0c.chunk.js": "/aliceljungholm/static/js/2.a61a9f0c.chunk.js",
+    "static/js/2.a61a9f0c.chunk.js.map": "/aliceljungholm/static/js/2.a61a9f0c.chunk.js.map",
+    "static/js/3.dda27cfb.chunk.js": "/aliceljungholm/static/js/3.dda27cfb.chunk.js",
+    "static/js/3.dda27cfb.chunk.js.map": "/aliceljungholm/static/js/3.dda27cfb.chunk.js.map",
     "index.html": "/aliceljungholm/index.html",
-    "static/css/main.99f508c1.chunk.css.map": "/aliceljungholm/static/css/main.99f508c1.chunk.css.map",
-    "static/js/2.c1b9e04e.chunk.js.LICENSE.txt": "/aliceljungholm/static/js/2.c1b9e04e.chunk.js.LICENSE.txt",
+    "static/css/main.fdbd4cf5.chunk.css.map": "/aliceljungholm/static/css/main.fdbd4cf5.chunk.css.map",
+    "static/js/2.a61a9f0c.chunk.js.LICENSE.txt": "/aliceljungholm/static/js/2.a61a9f0c.chunk.js.LICENSE.txt",
     "static/media/cvs.f7892d20.png": "/aliceljungholm/static/media/cvs.f7892d20.png",
     "static/media/diploma.d5179199.png": "/aliceljungholm/static/media/diploma.d5179199.png",
     "static/media/findfun.0329d4c0.png": "/aliceljungholm/static/media/findfun.0329d4c0.png",
@@ -27,6 +27,10 @@
     "static/media/grid7.a65a211d.jpg": "/aliceljungholm/static/media/grid7.a65a211d.jpg",
     "static/media/grid8.c5279e11.jpg": "/aliceljungholm/static/media/grid8.c5279e11.jpg",
     "static/media/grid9.0dcd4e9c.jpg": "/aliceljungholm/static/media/grid9.0dcd4e9c.jpg",
+    "static/media/mock_mt_1.a0642817.jpeg": "/aliceljungholm/static/media/mock_mt_1.a0642817.jpeg",
+    "static/media/mock_mt_1.a0642817.png": "/aliceljungholm/static/media/mock_mt_1.a0642817.png",
+    "static/media/mock_mt_2.56e23105.png": "/aliceljungholm/static/media/mock_mt_2.56e23105.png",
+    "static/media/mock_mt_3.d57138dc.png": "/aliceljungholm/static/media/mock_mt_3.d57138dc.png",
     "static/media/mockup1.cd9461fd.png": "/aliceljungholm/static/media/mockup1.cd9461fd.png",
     "static/media/mockup2.00032439.png": "/aliceljungholm/static/media/mockup2.00032439.png",
     "static/media/yarn1.2c81efff.png": "/aliceljungholm/static/media/yarn1.2c81efff.png",
@@ -34,9 +38,9 @@
     "static/media/yarn3.c33a48ed.png": "/aliceljungholm/static/media/yarn3.c33a48ed.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.fd1a402b.js",
-    "static/js/2.c1b9e04e.chunk.js",
-    "static/css/main.99f508c1.chunk.css",
-    "static/js/main.1b4e7b34.chunk.js"
+    "static/js/runtime-main.53c02af7.js",
+    "static/js/2.a61a9f0c.chunk.js",
+    "static/css/main.fdbd4cf5.chunk.css",
+    "static/js/main.11862b6d.chunk.js"
   ]
 }
