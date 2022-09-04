@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/aliceljungholm/static/css/main.ff0bf933.chunk.css",
-    "main.js": "/aliceljungholm/static/js/main.1aaf10ff.chunk.js",
-    "main.js.map": "/aliceljungholm/static/js/main.1aaf10ff.chunk.js.map",
+    "main.css": "/aliceljungholm/static/css/main.1b53df69.chunk.css",
+    "main.js": "/aliceljungholm/static/js/main.5542c3c4.chunk.js",
+    "main.js.map": "/aliceljungholm/static/js/main.5542c3c4.chunk.js.map",
     "runtime-main.js": "/aliceljungholm/static/js/runtime-main.53c02af7.js",
     "runtime-main.js.map": "/aliceljungholm/static/js/runtime-main.53c02af7.js.map",
-    "static/js/2.33c34501.chunk.js": "/aliceljungholm/static/js/2.33c34501.chunk.js",
-    "static/js/2.33c34501.chunk.js.map": "/aliceljungholm/static/js/2.33c34501.chunk.js.map",
+    "static/js/2.a53dfc7f.chunk.js": "/aliceljungholm/static/js/2.a53dfc7f.chunk.js",
+    "static/js/2.a53dfc7f.chunk.js.map": "/aliceljungholm/static/js/2.a53dfc7f.chunk.js.map",
     "static/js/3.dda27cfb.chunk.js": "/aliceljungholm/static/js/3.dda27cfb.chunk.js",
     "static/js/3.dda27cfb.chunk.js.map": "/aliceljungholm/static/js/3.dda27cfb.chunk.js.map",
     "index.html": "/aliceljungholm/index.html",
-    "static/css/main.ff0bf933.chunk.css.map": "/aliceljungholm/static/css/main.ff0bf933.chunk.css.map",
-    "static/js/2.33c34501.chunk.js.LICENSE.txt": "/aliceljungholm/static/js/2.33c34501.chunk.js.LICENSE.txt",
+    "static/css/main.1b53df69.chunk.css.map": "/aliceljungholm/static/css/main.1b53df69.chunk.css.map",
+    "static/js/2.a53dfc7f.chunk.js.LICENSE.txt": "/aliceljungholm/static/js/2.a53dfc7f.chunk.js.LICENSE.txt",
     "static/media/diploma.d5179199.png": "/aliceljungholm/static/media/diploma.d5179199.png",
     "static/media/findfun.0329d4c0.png": "/aliceljungholm/static/media/findfun.0329d4c0.png",
     "static/media/green1.01c79441.png": "/aliceljungholm/static/media/green1.01c79441.png",
     "static/media/green2.4d7d901d.png": "/aliceljungholm/static/media/green2.4d7d901d.png",
+    "static/media/StartPage.css": "/aliceljungholm/static/media/slidemaster.1e6bc871.png",
     "static/media/grid1.3ec23881.jpg": "/aliceljungholm/static/media/grid1.3ec23881.jpg",
     "static/media/grid10.5eb0bbb4.jpg": "/aliceljungholm/static/media/grid10.5eb0bbb4.jpg",
     "static/media/grid2.4d22dde0.png": "/aliceljungholm/static/media/grid2.4d22dde0.png",
@@ -38,8 +39,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.53c02af7.js",
-    "static/js/2.33c34501.chunk.js",
-    "static/css/main.ff0bf933.chunk.css",
-    "static/js/main.1aaf10ff.chunk.js"
+    "static/js/2.a53dfc7f.chunk.js",
+    "static/css/main.1b53df69.chunk.css",
+    "static/js/main.5542c3c4.chunk.js"
   ]
 }
