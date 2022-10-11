@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/aliceljungholm/static/css/main.7a1dc865.chunk.css",
-    "main.js": "/aliceljungholm/static/js/main.6cec47fc.chunk.js",
-    "main.js.map": "/aliceljungholm/static/js/main.6cec47fc.chunk.js.map",
+    "main.css": "/aliceljungholm/static/css/main.3df85690.chunk.css",
+    "main.js": "/aliceljungholm/static/js/main.902e7f29.chunk.js",
+    "main.js.map": "/aliceljungholm/static/js/main.902e7f29.chunk.js.map",
     "runtime-main.js": "/aliceljungholm/static/js/runtime-main.53c02af7.js",
     "runtime-main.js.map": "/aliceljungholm/static/js/runtime-main.53c02af7.js.map",
     "static/js/2.2d342b9f.chunk.js": "/aliceljungholm/static/js/2.2d342b9f.chunk.js",
@@ -10,8 +10,9 @@
     "static/js/3.dda27cfb.chunk.js": "/aliceljungholm/static/js/3.dda27cfb.chunk.js",
     "static/js/3.dda27cfb.chunk.js.map": "/aliceljungholm/static/js/3.dda27cfb.chunk.js.map",
     "index.html": "/aliceljungholm/index.html",
-    "static/css/main.7a1dc865.chunk.css.map": "/aliceljungholm/static/css/main.7a1dc865.chunk.css.map",
+    "static/css/main.3df85690.chunk.css.map": "/aliceljungholm/static/css/main.3df85690.chunk.css.map",
     "static/js/2.2d342b9f.chunk.js.LICENSE.txt": "/aliceljungholm/static/js/2.2d342b9f.chunk.js.LICENSE.txt",
+    "static/media/arcvitus.cfce4445.png": "/aliceljungholm/static/media/arcvitus.cfce4445.png",
     "static/media/conversation.7046924f.png": "/aliceljungholm/static/media/conversation.7046924f.png",
     "static/media/findfun.0329d4c0.png": "/aliceljungholm/static/media/findfun.0329d4c0.png",
     "static/media/green1.01c79441.png": "/aliceljungholm/static/media/green1.01c79441.png",
@@ -25,6 +26,7 @@
     "static/media/mockup1.cd9461fd.png": "/aliceljungholm/static/media/mockup1.cd9461fd.png",
     "static/media/mockup2.00032439.png": "/aliceljungholm/static/media/mockup2.00032439.png",
     "static/media/ongoing.5be595fd.png": "/aliceljungholm/static/media/ongoing.5be595fd.png",
+    "static/media/viruslofi3.d2697ae8.png": "/aliceljungholm/static/media/viruslofi3.d2697ae8.png",
     "static/media/yarn1.2c81efff.png": "/aliceljungholm/static/media/yarn1.2c81efff.png",
     "static/media/yarn2.7e4beef6.png": "/aliceljungholm/static/media/yarn2.7e4beef6.png",
     "static/media/yarn3.c33a48ed.png": "/aliceljungholm/static/media/yarn3.c33a48ed.png",
@@ -33,7 +35,7 @@
   "entrypoints": [
     "static/js/runtime-main.53c02af7.js",
     "static/js/2.2d342b9f.chunk.js",
-    "static/css/main.7a1dc865.chunk.css",
-    "static/js/main.6cec47fc.chunk.js"
+    "static/css/main.3df85690.chunk.css",
+    "static/js/main.902e7f29.chunk.js"
   ]
 }
